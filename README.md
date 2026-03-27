@@ -1,6 +1,6 @@
 # Analysing German parliamentary debates: a special case of calls to order
 
-This repository supports a submission to the PoliticalNLP 2026 (LREC 2026 Workshop) that explores incivility in parliamentary discourse, focusing on calls to order (CtO; plural: CtOs) in the German parliament.
+This repository supports a submission accepted to the PoliticalNLP 2026 (LREC 2026 Workshop) that explores incivility in parliamentary discourse, focusing on calls to order (CtO; plural: CtOs) in the German parliament.
 
 ## Files description
 
